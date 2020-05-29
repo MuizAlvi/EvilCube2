@@ -2,5 +2,5 @@
 The game features a first person shooter that battles 'evil' cubes.
 The cubes respawn every 0.5 seconds.
 The cubes have been programmed to follow and knock the player out of the game boundary.
-The cubes explodes upon collision.
+The cubes explode upon collision.
 Level design, Geometery of the cubes and other subsequent blueprints have been uploaded to the repository.
